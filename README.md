@@ -1,4 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://victoriatrinita.com/about">self</a>
+    &middot;
+    <a href="https://victoriatrinita.com/books">reads</a>
+    &middot;
+    <a href="https://victoriatrinita.com/haikus">reflections</a>
+    &middot;
+  </samp>
+</p>
 
 <!--
 **victoriatrinita/victoriatrinita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
