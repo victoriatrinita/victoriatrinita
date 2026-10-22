@@ -4,7 +4,7 @@
     &middot;
     <a href="https://victoriatrinita.com/books">reads</a>
     &middot;
-    <a href="https://victoriatrinita.com/haikus">reflections</a>
+    <a href="https://victoriatrinita.com/haiku">reflections</a>
     &middot;
   </samp>
 </p>
